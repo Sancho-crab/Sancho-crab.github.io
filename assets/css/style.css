@@ -10859,4 +10859,8 @@ textarea.form-control-lg {
   transition-property: all;
 }
 
+.filter {
+  display: none;
+}
+
 /*# sourceMappingURL=style.css.map */
