@@ -10800,6 +10800,18 @@ textarea.form-control-lg {
 .portfolio button {
   text-transform: capitalize;
 }
+.portfolio a {
+  color: white;
+  text-decoration: none;
+}
+.portfolio a:active {
+  color: white;
+  text-decoration: none;
+}
+.portfolio a:visited {
+  color: white;
+  text-decoration: none;
+}
 
 .portfolio-box {
   position: relative;
